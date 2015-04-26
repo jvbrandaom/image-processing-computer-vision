@@ -14,6 +14,7 @@ Try to adapt the installation instructions for your system with the ones bellow.
 
 
 1- Install these packages:
+	
 	sudo apt-get install g++
 	sudo apt-get install build-essential
 	sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
@@ -27,6 +28,7 @@ Try to adapt the installation instructions for your system with the ones bellow.
 	unzip opencv-2.4.11.zip -d /usr/local/
 
 4 - Rename opencv-2.4.11 to opencv-2.4 so the opencv folder becomes /usr/local/opencv-2.4.11/:
+	
 	mv /usr/local/opencv-2.4.11/ /usr/local/opencv-2.4
 
 5 - Enter /usr/local/opencv-2.4/ and create a temporary directory where you want to put the generated MakeFiles and binaries, for instance:
