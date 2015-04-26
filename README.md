@@ -3,6 +3,9 @@ Repository containing the assignments done for the unit of Image Processing and 
 
 All programs were writen in C++ using the OpenCV library.
 
+Assignment 1: coin counting
+	A program to count and highlight coins in a image
+
 Instalation guide:
 
 This guide is intendend for Linux machines. If you wish to install OpenCV in other systems, check the other guides here: http://docs.opencv.org/doc/tutorials/introduction/table_of_content_introduction/table_of_content_introduction.html#table-of-content-introduction
@@ -48,3 +51,4 @@ Try to adapt the installation instructions for your system with the ones bellow.
 7 - After editing your .bashrc file, make sure you refresh your environment via:
 
 	source ~/.bashrc
+
